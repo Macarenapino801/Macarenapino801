@@ -184,7 +184,7 @@ manteniendo siempre una mentalidad de aprendizaje continuo.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=footer"/>
 
 </div>
-
+---
 
 ## Frameworks
 
@@ -234,16 +234,6 @@ manteniendo siempre una mentalidad de aprendizaje continuo.
 
 </p>
 
----
 
-# 🎯 Objetivo Profesional
 
-Quiero construir soluciones tecnológicas que resuelvan problemas reales, aprender continuamente y desarrollar un portafolio que refleje mi crecimiento como desarrolladora.
 
----
-
-<div align="center">
-
-### ⭐ Gracias por visitar mi perfil ⭐
-
-</div>
