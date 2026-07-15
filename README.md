@@ -51,7 +51,7 @@ manteniendo siempre una mentalidad de aprendizaje continuo.
 
 ---
 
-# 🌱 Actualmente aprendiendo
+# 🚀 Actualmente aprendiendo
 
 - Python
 - Java
